@@ -44,6 +44,8 @@ Here's how I approached building this traffic prediction system step by step:
 <li>Loading data 📥</li>
 </ul>
 </details>
+<br>
+
 
 <details open>
 <summary><strong>2. Creating a Neural Network Model 🧠</strong></summary>
@@ -55,6 +57,8 @@ Here's how I approached building this traffic prediction system step by step:
 <li>Writing the forward method ➡️</li>
 </ul>
 </details>
+<br>
+
 
 <details open>
 <summary><strong>3. Training the Model 🏃‍♂️</strong></summary>
@@ -66,6 +70,8 @@ Here's how I approached building this traffic prediction system step by step:
 <li>Running a training loop 🔁</li>
 </ul>
 </details>
+<br>
+
 
 <details open>
 <summary><strong>4. Evaluating the Model 📐</strong></summary>
